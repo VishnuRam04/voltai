@@ -1,1 +1,7 @@
+fastapi
+uvicorn
+requests
+httpx
+pydantic
+earthengine-api
 fastapi[all]
